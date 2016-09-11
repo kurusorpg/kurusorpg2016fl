@@ -48,6 +48,6 @@ null,
 {"id":46,"expanded":false,"name":"火山３","order":46,"parentId":42,"scrollX":970.8,"scrollY":893.4},
 {"id":47,"expanded":true,"name":"5章","order":47,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":48,"expanded":false,"name":"最後１","order":48,"parentId":47,"scrollX":1430,"scrollY":624},
-{"id":49,"expanded":true,"name":"最後２","order":49,"parentId":47,"scrollX":970.8,"scrollY":537},
+{"id":49,"expanded":true,"name":"最後２","order":49,"parentId":47,"scrollX":970.8,"scrollY":796.1999999999999},
 {"id":50,"expanded":false,"name":"最後３","order":50,"parentId":47,"scrollX":1430,"scrollY":1776}
 ]
